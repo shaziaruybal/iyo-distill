@@ -12,6 +12,8 @@ links:
     url: "mailto:shaziaruybal@gmail.com"
 output:
   postcards::jolla
+
+site: distill::distill_website
 ---
  
 This is my postcard in my new distill website :)
